@@ -6,6 +6,6 @@ Excel Data Analysis with Python:      <a href="http://nbviewer.ipython.org/githu
 
 Linear Regression with Python: <a href="http://nbviewer.ipython.org/github/aschleg/IPython_Notebooks/blob/master/Linear%20Regression%20with%20Python.ipynb">HTML</a>
 
-Stock Price Hidden Markov Model with Excel: <a href="https://github.com/aschleg/IPython_Notebooks/blob/master/Stock%20Price%20Hidden%20Markov%20Models%20with%20Excel.ipynb">HTML</a>
+Linear Regression with Python and Excel: <a href="http://nbviewer.ipython.org/github/aschleg/IPython_Notebooks/blob/master/Linear%20Regression%20with%20Python%20and%20Excel.ipynb">HTML</a>
 
-rpy2 and rmagic:      <a href="https://github.com/aschleg/IPython_Notebooks/blob/master/Working%20with%20rpy2%20and%20rmagic.ipynb">HTML</a>
+Stock Price Hidden Markov Model with Excel: <a href="https://github.com/aschleg/IPython_Notebooks/blob/master/Stock%20Price%20Hidden%20Markov%20Models%20with%20Excel.ipynb">HTML</a>
