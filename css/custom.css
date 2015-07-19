@@ -8,6 +8,14 @@ This will always be an empty file in IPython
 <style>
 @import url(http://fonts.googleapis.com/css?family=Lato|Source+Code+Pro|Montserrat:400,700);
 
+body {
+	font-family: 'Lato', sans-serif !important;
+	font-size: 1.25em !important;
+	line-height: 30px !important;
+	font-weight: 400 !important;
+	color: #8d8d8d !important;
+}
+
 #notebook-container {
 	-webkit-box-shadow: none;
 	box-shadow: none;
