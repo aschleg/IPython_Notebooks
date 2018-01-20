@@ -1,5 +1,6 @@
 $ cat .gitignore
-Python for Data Analysis - Pandas.ipynb
-Python for Data Analysis - Intro to NumPy.ipynb
-Simply Measured Analysis.ipynb
-Social Media.ipynb
+
+custom.css
+data/
+drafts/
+.DS_Store

@@ -1,21 +1,12 @@
-NBViewer links to each notebook:
+## Repo of my Jupyter Notebooks
 
-###Finance
+This repository is more or less a central location of my [notebooks](http://jupyter.org/) on various topics in hopes of keeping more organized =^_^=. Some of these notebooks may appear in other projects where appropriate. 
 
-<a href="http://nbviewer.ipython.org/github/aschleg/IPython_Notebooks/blob/master/Black-Scholes%20Formula.ipynb">Black-Scholes Formula</a>
+### Contents
 
-<a href="http://nbviewer.ipython.org/github/aschleg/IPython_Notebooks/blob/master/Implied%20Volatility.ipynb">Implied Volatility</a>
-
-<a href="http://nbviewer.ipython.org/github/aschleg/IPython_Notebooks/blob/master/Put-Call%20Parity%20of%20Vanilla%20European%20Options.ipynb">Put-Call Parity of Vanilla European Options</a>
-
-<a href="http://nbviewer.ipython.org/github/aschleg/IPython_Notebooks/blob/master/The%20Greeks.ipynb">The Greeks</a>
-
-<a href="https://github.com/aschleg/IPython_Notebooks/blob/master/Speed%20Test.ipynb">Numba and Cython Speed Tests</a>
-
-###Excel
-
-<a href="http://nbviewer.ipython.org/github/aschleg/IPython_Notebooks/blob/master/Linear%20Regression%20with%20Python%20and%20Excel.ipynb">Linear Regression with Python and Excel</a>
-
-<a href="http://nbviewer.ipython.org/github/aschleg/IPython_Notebooks/blob/master/Python-Excel_Data_Analysis.ipynb">Data Analysis with Excel and Python</a>
-
-
+* finance/
+	- Collection of notebooks of some computational financial functions.
+* python_excel/
+	- Notebooks of using Python with Excel interactively. (Note: may be quite out of date at this point with the new releases of [xlwings](https://www.xlwings.org/))
+* petpy/
+	- Vignette notebooks on using my [petpy](https://github.com/aschleg/petpy) library for working with the [Petfinder API](https://www.petfinder.com/developers/api-docs)
