@@ -1,5 +1,7 @@
 ## Repo of my Jupyter Notebooks
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aschleg/IPython_Notebooks/master)
+
 This repository is more or less a central location of my [notebooks](http://jupyter.org/) on various topics in hopes of keeping more organized =^_^=. Some of these notebooks may appear in other projects where appropriate. 
 
 ### Contents
