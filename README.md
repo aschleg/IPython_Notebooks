@@ -19,4 +19,4 @@ This repository is more or less a central location of my [jupyter notebooks](htt
 
 The data sets used in the notebooks will be listed here and can be downloaded from S3.
 
-* [AAC Shelter Cat Outcomes](https://s3-us-west-2.amazonaws.com/animal-datasets/aac-shelter-outcomes/shelter+cats_data.tar.gz
+* [AAC Shelter Cat Outcomes](https://s3-us-west-2.amazonaws.com/animal-datasets/aac-shelter-outcomes/shelter+cats_data.tar.gz)
