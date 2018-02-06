@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aschleg/IPython_Notebooks/master)
 
-This repository is more or less a central location of my [notebooks](http://jupyter.org/) on various topics in hopes of keeping more organized =^_^=. Some of these notebooks may appear in other projects where appropriate. 
+This repository is more or less a central location of my [jupyter notebooks](http://jupyter.org/) on various topics in hopes of keeping more organized. Some of these notebooks may appear in other projects where appropriate.
 
 ## Contents
 
@@ -17,6 +17,6 @@ This repository is more or less a central location of my [notebooks](http://jupy
 
 ## Data
 
-The data sets used in the notebooks will be listed here and can be downloaded from Dropbox.
+The data sets used in the notebooks will be listed here and can be downloaded from S3.
 
-* [AAC Shelter Cat Outcomes](https://www.dropbox.com/s/ixz01etskhnsqtg/shelter%20cats_data.tar.gz?dl=0)
+* [AAC Shelter Cat Outcomes](https://s3-us-west-2.amazonaws.com/animal-datasets/aac-shelter-outcomes/shelter+cats_data.tar.gz
