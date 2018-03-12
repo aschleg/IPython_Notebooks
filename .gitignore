@@ -1,6 +1,9 @@
 $ cat .gitignore
 
+mathpy/
 custom.css
 data/
 drafts/
+scratch/
+.ipynb_checkpoints/
 .DS_Store
