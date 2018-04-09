@@ -7,3 +7,4 @@ drafts/
 scratch/
 .ipynb_checkpoints/
 .DS_Store
+*.py
