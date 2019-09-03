@@ -6,6 +6,20 @@ This repository is more or less a central location of my [jupyter notebooks](htt
 
 ## Contents
 
+* calculus
+	- Series of notebooks that demonstrate various subjects of calculus. Examples are walked through and then proving using [SymPy](https://www.sympy.org/en/index.html)
+		* [Antiderivatives]
+		* [Chain Rule]
+		* [Continuous Functions]
+		* [Derivatives of Logarthmic Functions]
+		* [Fundamental Theorem of Calculus]
+		* [Implicit Differentiation]
+		* [Indefinite Integrals]
+		* [L'Hospital's Rule and Indeterminate Forms]
+		* [Limits]
+		* [Newton's Method for Root Finding]
+		* [Product, Quotient and Power Rules]
+		* [Substitution Rule]
 * finance
 	- Collection of notebooks of some computational financial functions.
 		* [Black-Scholes Formula](https://github.com/aschleg/IPython_Notebooks/blob/master/finance/Black-Scholes%20Formula.ipynb)
