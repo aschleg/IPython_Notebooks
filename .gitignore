@@ -2,10 +2,6 @@ $ cat .gitignore
 
 .DS_Store
 *.py
-mathpy/
-calculus/
 custom.css
-data/
 drafts/
-scratch/
 .ipynb_checkpoints/
